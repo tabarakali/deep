@@ -1,0 +1,178 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="C:\Users\TABARAK ALI\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/749727484" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="C:\Users\TABARAK ALI\PycharmProjects\untitled1\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled1/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-2024088235" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (myproject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="C:\Users\TABARAK ALI\PycharmProjects\myproject\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/myproject/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/myproject/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/myproject/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/myproject/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/196604502" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/myproject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="C:\Users\TABARAK ALI\PycharmProjects\untitled3\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled3/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled3/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled3/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled3/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1883539625" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (my first)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="C:\Users\TABARAK ALI\PycharmProjects\my first\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/my first/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/my first/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/my first/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/my first/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/2020146259" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/my first" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="C:\Users\TABARAK ALI\PycharmProjects\untitled4\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled4/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled4/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled4/venv/Lib/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled4/venv/Lib/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/334218328" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled4" />
+    </jdk>
+  </component>
+</application>
